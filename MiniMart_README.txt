@@ -1,0 +1,2 @@
+So, this was originally done for a graduate level Software Engineering class.  A basic UI with persistent data.
+Each screen is its own class (UI element.)  Lots of room for improvement and expansion here.
